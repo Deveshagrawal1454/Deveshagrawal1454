@@ -67,6 +67,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deveshagrawal1454&show_icons=true&locale=en&layout=compact" alt="deveshagrawal1454" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Deveshagrawal1454&show_icons=true&locale=en" alt="deveshagrawal1454" /></p>
-
+<br/>
 <a target="_blank"><img align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
